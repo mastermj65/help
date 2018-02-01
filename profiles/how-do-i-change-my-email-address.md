@@ -1,0 +1,3 @@
+# How do I change my email address?
+
+So you want all your FetLife email to be going to a particular email address that is different than the one you signed up on, huh? No worries, mon! Click on your nickname in the upper right hand portion of your browser window, then click on "Update Settings". The tab with your email address should be the one that opens up. Click on Update, and its a wrap. Unless you are into sandwiches instead...

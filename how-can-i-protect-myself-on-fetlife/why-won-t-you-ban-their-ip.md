@@ -1,0 +1,3 @@
+# Why won't you ban their IP?
+
+We get this question a lot in reference to other members behaving badly. Sadly, blocking an IP address doesn't work. It is a common Internet myth, based back on the days when people had static IP addresses. Almost everyone today has a dynamic IP address. Each time you connect to your local Internet Service Provider, you will usually get a new IP address. For example, when describing this to one member, during the 6 months they had been on FetLife, they had used over 850 IP addresses! And over three-fourths of those IP addresses have been also used by other FetLife members at some time, most of them by over 20 other FetLife members.
