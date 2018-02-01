@@ -6,4 +6,4 @@ Blocks also changes any past interchanges between you and the other person. That
 
 Blocks won&rsquo;t prevent people seeing your comments in groups, other people's walls, pictures, writings, etc. It only just blocks the items on your profile.
 
-If the blocked person makes an alternate profile to contact you around that block, that&rsquo;s called a &ldquo;sock puppet&rdquo;. Notify the FetLife Caretakers, and they&rsquo;ll investigate. If discovered, the sock puppet is deleted and the member warned.
+If the blocked person makes an alternate profile to contact you around that block, that&rsquo;s called a "sock puppet". Notify the FetLife Caretakers, and they&rsquo;ll investigate. If discovered, the sock puppet is deleted and the member warned.

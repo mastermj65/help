@@ -19,5 +19,4 @@ Mobile:
 If a member has an older browser then one listed above and FetLife is not working properly for them we recommend:
 
 - On Windows: Upgrade to Chrome
-
 - On Mac: Upgrade Safari or move to Chrome

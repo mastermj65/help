@@ -4,10 +4,10 @@ To use the upload photo function from your iPhone, you have to have your email a
 
 To add an email address to your iPhone:
 
-1. Tap on &ldquo;Settings&rdquo;
-2. Tap on &ldquo;Mail, Contacts, Calendars&rdquo;
-3. Under &ldquo;Accounts&rdquo;, Tap on &ldquo;Add Account&rdquo;
-4. Choose the vendor through which your email account works (For example, &ldquo;Gmail&rdquo;)
+1. Tap on "Settings"
+2. Tap on "Mail, Contacts, Calendars"
+3. Under "Accounts", Tap on "Add Account"
+4. Choose the vendor through which your email account works (For example, "Gmail")
 5. Fill in form
-6. Tap &ldquo;Next&rdquo; - it verifies that all the information there is correct
-7. Tap on &ldquo;Save&rdquo; to allow the different information to your iPhone (For example, Mail, Calendar, Contacts)
+6. Tap "Next" - it verifies that all the information there is correct
+7. Tap on "Save" to allow the different information to your iPhone (For example, Mail, Calendar, Contacts)
