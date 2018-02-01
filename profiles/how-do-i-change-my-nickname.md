@@ -1,6 +1,6 @@
 # How do I change my nickname?
 
-You nowhave the ability to change your own nickname every 28 days! For your convenience, click [here](https://fetlife.com/users/edit_nickname ""). Otherwise click on your nickname at the top of the browser window. Click on &ldquo;Edit Profile&rdquo; in the drop down box. The second tab from the left is &ldquo;Change Nickname&rdquo;. Remember, please make sure that your new nickname is between 2 and 16 alphanumeric characters (letters and numbers) and does not consist of any spaces or periods (dashes and underscores are ok though) - our computers scream "RED" on spaces!
+You nowhave the ability to change your own nickname every 28 days! For your convenience, click [here](https://fetlife.com/users/edit_nickname ""). Otherwise click on your nickname at the top of the browser window. Click on "Edit Profile" in the drop down box. The second tab from the left is "Change Nickname". Remember, please make sure that your new nickname is between 2 and 16 alphanumeric characters (letters and numbers) and does not consist of any spaces or periods (dashes and underscores are ok though) - our computers scream "RED" on spaces!
 
 You should also check to see if anyone on the site is already using the nickname you want. A quick way to do this is to type in http://fetlife.com/usernameYOUwant in the URL bar. If there is someone with that username, it will bring them up. Otherwise it will take you to your activity feed.
 
