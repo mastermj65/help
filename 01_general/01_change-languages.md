@@ -15,6 +15,6 @@ Currently, FetLife is available in the following languages:
 - &Epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ά
 - Български
 
-To change your language preference, go tohttps://fetlife.com/languages. Change Language can also be found in your Menu options, located in the upper right of your screen.
+To change your language preference, go to https://fetlife.com/languages. Change Language can also be found in your Menu options, located in the upper right of your screen.
 
-Please visit our [translation project on GitHub](https://github.com/fetlife/translations "") and help make FetLife accessible to more of our kinky friends & communities.
+Please visit our [translation project on GitHub](https://github.com/fetlife/translations) and help make FetLife accessible to more of our kinky friends & communities.
