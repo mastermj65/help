@@ -3,6 +3,7 @@
 With the help of the beautifully diverse community that makes up Fetlife, we are working to make FetLife home to all kinksters, no matter where in the world, in the language they are most comfortable!
 
 Currently, FetLife is available in the following languages:
+
 - Deutsch
 - English
 - Espa&ntilde;ol
