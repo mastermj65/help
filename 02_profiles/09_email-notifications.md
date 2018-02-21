@@ -15,4 +15,4 @@ A) It can take some time for the change to hit the email boxes if we are really 
 
 B) Make sure that you aren't still signed up to receive that notification on a different profile... (Yeah, it happens a lot!)
 
-If after 24 hours you are still receiving email notifications, you can contact the caretakers at (caretakers@fetlife.com)[mailto:caretakers@fetlife.com] and they can help you out further. :-)
+If after 24 hours you are still receiving email notifications, you can contact the caretakers at [caretakers@fetlife.com](mailto:caretakers@fetlife.com) and they can help you out further. :-)

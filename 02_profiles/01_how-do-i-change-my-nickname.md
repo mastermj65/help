@@ -14,4 +14,4 @@ You should also check to see if anyone on the site is already using the nickname
 - http://fetlife.com/johnbaku
 - http://fetlife.com/SurelyNobodyHasThisNickname
 
-If you made a typo or your name was changed by accident, contact the caretakers and they'll be happy to help fix this for you. Please email them from the email address attached to your profile and include your current nickname and desired nickname. You can contact them at (caretakers@fetlife.com)[mailto:caretakers@fetlife.com].
+If you made a typo or your name was changed by accident, contact the caretakers and they'll be happy to help fix this for you. Please email them from the email address attached to your profile and include your current nickname and desired nickname. You can contact them at [caretakers@fetlife.com](mailto:caretakers@fetlife.com).
