@@ -3,6 +3,7 @@
 Adding, changing, and deleting a relationship with someone else on FetLife is easy (you're on your own for the real-life stuff)!
 
 To edit or delete your relationships with someone else:
+
 1. Click your nickname on the top-right side of FetLife and click "Edit Profile" in the dropdown menu.
 2. Click the tab called "Relationships in".
 3. The tab has two different types of relationships: "Relationships" and "D/s Relationships". You can add, edit, or delete those relationships on this screen. This only changes the relationships on *your* profile.

@@ -4,5 +4,5 @@ If you have entered your nickname and password correctly but after clicking subm
 
 Open up your browser settings and:
 
--Enable or allow cookies
--Turn off any browser extensions or plugins which might be affecting cookies
+- Enable or allow cookies
+- Turn off any browser extensions or plugins which might be affecting cookies

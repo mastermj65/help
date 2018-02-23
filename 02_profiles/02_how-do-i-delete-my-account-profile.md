@@ -5,6 +5,7 @@ What you mean you want to delete your account? That blows llama ass... and I kno
 The easiest way to delete your profile is to go here: [https://fetlife.com/deactivate?type=delete](https://fetlife.com/deactivate?type=delete)
 
 Alternatively, follow these steps to delete or deactivate your profile:
+
 1. Click your nickname in the upper-right corner on any page on FetLife.
 2. Click on "Edit Profile".
 3. On the right side, you'll see a link to "Delete profile".

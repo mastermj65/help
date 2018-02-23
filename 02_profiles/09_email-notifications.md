@@ -3,6 +3,7 @@
 You can update your email notification settings in either of two ways.
 
 Your global email notifications settings are in your "Update Settings" area of your profile:
+
 1. Click your nickname in the upper-right corner of FetLife and select "Update Settings" from the dropdown menu.
 2. The "Email Notifications" tab has all of your email notifications in one place. Click On or Off as appropriate.
 3. Be sure to press the "Update" button at the bottom of the screen to save your changes!
