@@ -6,8 +6,6 @@ Here's an example of an embedded picture in a writing: [https://fetlife.com/user
 
 The way this was typed into the writing was as follows:
 
-This is what embedding a pic in your writing looks like:
-
-https://fetlife.com/users/632624/pictures/8485136
-
-*P.S. I was asked to write this to update our help article.*
+> This is what embedding a pic in your writing looks like:
+> 
+> https://fetlife.com/users/1/pictures/31723282
