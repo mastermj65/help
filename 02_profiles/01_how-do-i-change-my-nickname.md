@@ -1,6 +1,6 @@
 # How do I change my nickname?
 
-You can change your own nickname once every 28 days. Here's a quick link: https://fetlife.com/users/edit_nickname.
+You can change your own nickname once every 28 days. Here's a quick link: https://fetlife.com/settings/account/nickname.
 
 To update your username:
 
