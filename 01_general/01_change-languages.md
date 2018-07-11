@@ -11,10 +11,13 @@ Currently, FetLife is available in the following languages:
 - Italiano
 - Magyar
 - Nederlands
+- Polski
 - Portugu&ecirc;s
 - Slovensky
 - &Epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ά
 - Български
+- Русский
+- 简体中文
 
 To change your language preference, go to https://fetlife.com/languages. Change Language can also be found in your Menu options, located in the upper right of your screen.
 
