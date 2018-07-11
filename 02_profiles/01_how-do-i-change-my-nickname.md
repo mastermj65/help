@@ -4,9 +4,9 @@ You can change your own nickname once every 28 days. Here's a quick link: https:
 
 To update your username:
 
-1. Click on your nickname at the top of the browser window.
-2. Click on "Edit Profile" in the drop down box.
-3. The second tab from the left is "Change Nickname".
+1. Click on the three bars at the top right of the FetLife page.
+2. Click on “Update Settings" in the pop out menu.
+3. Click “Change” next to the Nickname under General.
 
 Remember, please make sure that your new nickname is between 2 and 16 alphanumeric characters (letters and numbers) and does not consist of any spaces or periods (dashes and underscores are ok though) - our computers scream "RED" on spaces!
 
