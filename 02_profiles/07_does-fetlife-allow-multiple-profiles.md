@@ -6,3 +6,5 @@ There are some types of alternate profiles that **we do not allow**. For example
 
 - Sock Puppets - alternate or secondary profiles that are used to go around blocks, bans, or spoof or maliciously attack other members of FetLife. When reported and verified, we wash those socks right out of FetLife!
 - Impostors - someone posing as another real person. As soon as the real person says "Not Cool!", we delete the profile.
+
+If you're ready to make a secondary profile and need help, check out [https://fetlife.com/help/how-do-i-make-a-secondary-profile](https://fetlife.com/help/how-do-i-make-a-secondary-profile)
