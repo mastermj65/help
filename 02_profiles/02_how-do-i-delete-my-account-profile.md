@@ -1,7 +1,5 @@
 # How do I delete my account/profile?
 
-What you mean you want to delete your account? That blows llama ass... and I know... I've blown... things... like balloons and such. But I digress.
-
 The easiest way to delete your profile is to go here: [https://fetlife.com/deactivate?type=permanently%20delete](https://fetlife.com/deactivate?type=permanently%20delete)
 
 Alternatively, follow these steps to delete or deactivate your profile:
