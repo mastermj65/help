@@ -10,4 +10,4 @@ Please note that FetLife requires a unique:
 
 - email address
 - nickname
-- phone number (if using SMS verification) or email invitation from a past or current FetLife Supporter
+- phone number (if using SMS verification) or email invitation from a past or current FetLife Supporter.
