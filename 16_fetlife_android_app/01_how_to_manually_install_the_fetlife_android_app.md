@@ -1,8 +1,7 @@
 # How to manually install the FetLife Android App?
 
 ## Step 1: Make sure the App had been downloaded
-Open your Download or File browser App and look for the FetLife Apk. The file name changes with every version, but the latest version is called: #{@android_apk_file}.
-
+Open your Download or File browser App and look for the FetLife Apk. The file name changes with every version.
 If you can’t find the App file, please [re-download it](https://fetlife.com/android/download).
 
 ## Step 2: Open the downloaded file and install
