@@ -1,6 +1,6 @@
-# Can I set my Pictures, Videos, or Writing to Friends only?
+# Can I set my Pictures, Videos, or Writings to Friends only?
 
-Yes, you can! If you would like to make any of the Pictures, Videos or Writings you have uploaded here to FetLife, it's easy as pie and pie is good!
+Yes, you can! If you would like to make any of the Pictures, Videos or Writings you have uploaded here to FetLife more private, it's easy as pie and pie is good!
 
 Anything you upload to FetLife defaults to the privacy setting "FetLifers" meaning everyone on FetLife who stumbles upon it can see it, unless you select the Privacy setting before uploading it.
 
