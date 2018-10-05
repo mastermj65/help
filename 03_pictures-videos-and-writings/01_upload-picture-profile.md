@@ -1,6 +1,6 @@
 # How do I upload a picture to my profile?
 
-Easy-peasy! Click on your nickname at the top of the page (towards the right hand side to bring up the handy drop down menu) and then on "Upload Pictures".
+Easy-peasy! Click on the hamburger menu (icon with three horizontal lines) on the far right of FetLife’s navigation bar, and then on “Upload Picture".
 
 Now click on "Choose File", find the picture that you want to upload on your computer, select it, and hit the appropriate button in the file dialog - depending on your browser and language that might be "Save", "Open", "Grzblng", ... the one that doesn't say "Cancel".
 
