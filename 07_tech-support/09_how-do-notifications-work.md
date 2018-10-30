@@ -1,6 +1,6 @@
 # How do @ notifications work?
 
-If someone posts on your profile you will get an @ notification at the top of your page and in your https://fetlife.com/ats page.
+If someone posts on your profile you will get an @ notification at the top of your page and in your https://fetlife.com/notifications page.
 
 - This includes things like comments on your pics, vids, writings and wall.
 - It also includes loves on your pics, vids and writings.
