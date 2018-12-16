@@ -1,7 +1,10 @@
 # How do I change my password?
 
-Once you are logged in you can change your password from the settings section.
+If you are logged in, and know your current password, you can change your password from the settings section. (https://fetlife.com/settings/account/password)
 
-1. Click your nickname at the top-right of FetLife and press the "Update Settings" link.
-2. From there, click on the "Change Password" tab.
-3. Enter your old password and the new one you want to use and then press update.
+1. Click on the hamburger menu (icon with three horizontal lines) on the far right of FetLife's navigation bar.
+2. Click on “Update Settings" in the pop out menu.
+3. Click "Change" next to Password under the Account tab.
+
+If you cannot remember your current password, you'll need to log out of your FetLife profile and follow the steps here:
+https://fetlife.com/help/forgot-my-password
