@@ -1,6 +1,6 @@
 # What are the main differences between a closed group and a public group?
 
-<div class="overflow-auto overflow-scrolling-touch">
+<div class="overflow-auto overflow-scrolling-touch pt3">
   <table class="w-100 bg-near-black shadow-4 collapse ba b--primary">
     <thead>
       <tr class="bt b--primary">
@@ -12,7 +12,7 @@
 
     <tbody>
       <tr class="bt b--primary">
-        <td class="pa3 br b--primary">Join the group?</td>
+        <td class="pa3 br b--primary" style="min-width: 280px;">Join the group?</td>
         <td class="pa3 br b--primary">All FetLifers</td>
         <td class="pa3 br b--primary">Only those approved by group leaders</td>
       </tr>
