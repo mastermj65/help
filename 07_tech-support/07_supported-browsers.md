@@ -18,9 +18,9 @@ If you are on a slightly older browser (or on a modern alternative browser), cha
 - On Windows: Upgrade to [Chrome](http://www.google.com/chrome)
 - On Apple Products: Upgrade Safari or move to [Chrome](http://www.google.com/chrome)
 
-If you are already on a supported browser but you are still encountering issues, we recommend upgrading your browser.
+If you are already on a supported browser but you are still encountering issues, we recommend upgrading your browser to the latest version.
 
-#### How do I upgrade my browser?
+#### How do I upgrade my browser to the latest version?
 
 Each browser does upgrading differently:
 
@@ -37,4 +37,6 @@ You will be given an option to import existing data from your old browser during
 
 #### Why all this?
 
-FetLife's engineering team follows development best practices but outdated browsers can't keep up with them. By upgrading your browser you'll not only help us pushing the product forward faster, but also experience a safer and faster browsing experience across the web.
+FetLife's engineering team follows development and security best practices but outdated browsers can't keep up with them because they lack the latest technology improvements.
+
+By upgrading your browser you'll not only help us pushing the product forward faster, but also experience a safer and faster browsing experience across the web.
