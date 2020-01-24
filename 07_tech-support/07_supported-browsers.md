@@ -1,22 +1,40 @@
 # Supported Browsers
 
-Supported Browsers: (Includes newer versions of each unless otherwise noted)
+To optimally browse FetLife we highly recommend using our supported browsers:
 
-Desktop:
+#### Desktop browsers
 
-- Firefox 42+
-- Google Chrome 46+
-- Internet Explorer 11
-- Edge 12+
-- Safari 8+
+* Chrome 79+
+* Safari 9+
+* Edge 79+
+* Firefox 68+
+* Internet Explorer 11+
+* Android Browser 4.4+
 
-Mobile:
+#### What if my current browser is not on the list above?
 
-- Android 4.4+
-- Safari 8+
-- Chrome 47+
+If you are on a slightly older browser (or on a modern alternative browser), chances are everything will work just fine. In case you experience issues over time or are perving through an old browser, we recommend you upgrade it or change it. We recommend installing these browsers:
 
-If a member has an older browser then one listed above and FetLife is not working properly for them we recommend:
+- On Windows: Upgrade to [Chrome](http://www.google.com/chrome)
+- On Apple Products: Upgrade Safari or move to [Chrome](http://www.google.com/chrome)
 
-- On Windows: Upgrade to Chrome
-- On Mac: Upgrade Safari or move to Chrome
+If you are already on a supported browser but you are still encountering issues, we recommend upgrading your browser.
+
+#### How do I upgrade my browser?
+
+Each browser does upgrading differently:
+
+* [Chrome](https://support.google.com/chrome/answer/95414?co=GENIE.Platform%3DDesktop&hl=en)
+* [Safari](https://support.apple.com/en-us/HT204416)
+* [Edge](https://docs.microsoft.com/en-us/deployedge/microsoft-edge-sysupdate-windows-updates)
+* [Firefox](https://support.mozilla.org/en-US/kb/update-firefox-latest-release)
+* Internet Explorer: We recommend updating to any of the browsers above.
+* Android Browser: We recommend updating to [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en)
+
+#### What about my bookmarks, history, etc.?
+
+You will be given an option to import existing data from your old browser during install.
+
+#### Why all this?
+
+FetLife's engineering team follows development best practices but outdated browsers can't keep up with them. By upgrading your browser you'll not only help us pushing the product forward faster, but also experience a safer and faster browsing experience across the web.
