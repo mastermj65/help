@@ -4,11 +4,11 @@ To optimally browse FetLife we highly recommend using our supported browsers:
 
 #### Desktop browsers
 
-* Chrome 79+
-* Safari 9+
-* Edge 79+
-* Firefox 68+
-* Internet Explorer 11+
+* Chrome 46+
+* Safari 8+
+* Edge 12+
+* Firefox 42+
+* Internet Explorer 11
 * Android Browser 4.4+
 
 #### What if my current browser is not on the list above?
