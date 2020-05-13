@@ -17,7 +17,7 @@ While your account is deactivated, other FetLifers can't:
   - Pictures
   - Videos
   - Writings
-- See you in either the fetishes of places sections
+- See you in either the fetishes or places sections
 
 Keep in mind that while deactivated, the following will still be accessible:
 
