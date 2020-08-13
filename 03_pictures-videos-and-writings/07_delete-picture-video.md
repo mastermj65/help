@@ -14,12 +14,12 @@ You guessed it, you'll get a pop up box just to double check, confirm you want t
 If the picture is your Avatar, you will need to change your Avatar to a different picture, then you can delete it.
 
 
-# What about a Writing?
+#### What about a Writing?
 
 For writings navigate to the writing or even your full list of writings. In the top right hand corner of the Writing click the 3 dots to open the drop down menu:
 
-### Edit 
+#### Edit 
 Here you can tinker with your Writing, update the Catagory and Tags as well as changing the Privacy Setting.
 
-### Delete 
+#### Delete 
 The same as images and videos, we'll check with a pop up box and when you confirm.. *poof* It's gone!
