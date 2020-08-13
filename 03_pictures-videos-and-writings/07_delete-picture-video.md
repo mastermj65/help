@@ -1,4 +1,4 @@
-# How do I delete or edit a picture or video I've uploaded?
+# How do I delete or edit a picture, video or Writing?
 
 Navigate to the picture or video you want to delete (make sure you're looking at the enlarged picture or playable video). Below the image on the lefthand side, click on "options" to open a small drop down menu, from here you'll have up to 3 options:
 
