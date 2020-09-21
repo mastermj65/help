@@ -4,4 +4,4 @@ Well, John has his own special way to make sticky threads, but we won't go into 
 
 If you are a group owner or leader click on the discussion you want to make sticky and below the original post you will see several options. Click on the "make sticky" link and you got yourself a new sticky! Go check for yourself.
 
-To make it "unsticky", click on the sticky thread and below the original post click on the "make unsticky" link.
+To make it "unsticky", click on the sticky thread and below the original post click on the "Unmake sticky" link.
