@@ -1,12 +1,12 @@
 # How can I give a timeout to someone in my group?
 
-First of all, there are 2 types of timeouts:
+A group leader has access to two type of timeouts:
 
 - Temporary Timeout (max 30 days)
-- Permanent Timeout or Ban
+- Permanent Timeout (ban)
 
 If you are a group leader, there's multiple ways to give a timeout to a member of your group:
 
-- In the members tab (find the "moderate" dropdown on the member card)
-- On a comment (find the "more" menu)
-- On the group post (find the "options" menu)
+- From a comment they've made (found under the "more" menu)
+- From a group post they've made (found under the "options" menu)
+- From the members list (found under the "Members" tab, under "moderate" on the member card)
